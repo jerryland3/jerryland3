@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently a graduate Computer Science student at Johns Hopkins University.
+
+👯 I’m looking to collaborate on cool software engineering projects.
+
 <!--
 **jerryland3/jerryland3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
